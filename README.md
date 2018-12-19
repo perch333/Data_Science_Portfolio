@@ -1,2 +1,5 @@
-# Data_Science_Portfolio
-Project portfolio from UC Berkeley Master in Information &amp; Data Science (MIDS) coursework
+# Data Science Portfolio
+## Adam Letcher
+## UC Berkeley MIDS 2019
+
+Project portfolio from UC Berkeley Master in Information & Data Science (MIDS) coursework
